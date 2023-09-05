@@ -1,5 +1,8 @@
 # Hola, mi nombre es Michel 👋
 ### Full-stack Web developer
+
+Email: <a>orestelopez96@gmail.com</a>
+
 ---------------------
 Soy ingeniero de software profesional.
 
